@@ -8,6 +8,7 @@ public class HelloGitHub {
 
 	public static void hello() {
 		System.out.println("Thomas Schillaci");
+		System.out.println("Maxim Poulsen");
 	}
 	
 }
